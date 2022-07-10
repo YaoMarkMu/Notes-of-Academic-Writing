@@ -115,3 +115,9 @@ Always make at least one (and probably several) editing passes over your paper t
 #### Be as specific and precise as you can
 
 Precision is especially important when describing results, and when writing up an experiment or evaluation section.  For example, a good rule of thumb for writing up an evaluation section is:  Would someone be able to reproduce your experiment from your description?  If not, you need to be more clear.  In an evaluation section, clearly state your assumptions; in what context(s) do your results hold?  How general are they?  Clearly describe your evaluation setup, as it sets the context for the results themselves.  What machines did you use to run the evaluation?  What data did you gather to support your conclusions?  What algorithms did you use to analyze the data?  The evaluation setup should read like a recipe.  Someone reading it should be able to reproduce what you’ve done, at least well enough to understand the context of the results.  Similarly, the results should be clearly and precisely described.  Avoid writing sentences such as “This optimization significantly reduced the system’s running time.”  Such vague statements frustrate the reader.  Instead, substitute precise and specific information: “This optimization reduced the system’s running time by 20%”.
+
+
+## Reference
+[1] https://greatresearch.org/2013/10/11/storytelling-101-writing-tips-for-academics/
+[2] https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/
+[3] https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html
