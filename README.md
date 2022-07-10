@@ -119,5 +119,7 @@ Precision is especially important when describing results, and when writing up a
 
 ## Reference
 [1] https://greatresearch.org/2013/10/11/storytelling-101-writing-tips-for-academics/
+
 [2] https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/
+
 [3] https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html
